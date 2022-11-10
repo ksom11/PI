@@ -16,5 +16,5 @@ int main()
 	}
 	
 	Pi=4*total;
-	printf(".15lf%",Pi);
+	printf("%lf",Pi);
 }
